@@ -4,3 +4,5 @@ my progress in programming, coding, and learning AI
 ### Memulai Pemrograman dengan Python (Data, Machine Learning Path)
 ![Progress](https://img.shields.io/badge/Progress-41%25-green)    
 `█████████░░░░░░░░░░░░` **41%**
+## Data Analytics Career Track DQLab
+on-going
